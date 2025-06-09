@@ -35,6 +35,8 @@ docker run -e OPENAI_API_KEY=your_openai_api_key -p 8000:8000 chatbot-fastapi
 ---
 
 ## ✅ API Usage
+![Screenshot (442![Screenshot (440)](https://github.com/user-attachments/assets/22e23224-f62d-47ea-b9e2-f45b579e0807)
+)](https://github.com/user-attachments/assets/f71f5694-d34c-4139-a940-42c5e7ab4aaa)
 
 ### 🩺 Health Check
 
